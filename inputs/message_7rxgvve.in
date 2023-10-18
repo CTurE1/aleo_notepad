@@ -1,0 +1,10 @@
+[add_message]
+user: address = aleo1593eszedn3kp4ansaw7vrruqym6tqcywtc2ly5yq5gd2gg9d5qpq5hf26k;
+new_message: field = 0field;
+
+[remove_message]
+user: address = aleo1593eszedn3kp4ansaw7vrruqym6tqcywtc2ly5yq5gd2gg9d5qpq5hf26k;
+index: u32 = 0u32;
+
+[clear_messages]
+user: address = aleo1593eszedn3kp4ansaw7vrruqym6tqcywtc2ly5yq5gd2gg9d5qpq5hf26k;

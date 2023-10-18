@@ -1,0 +1,7 @@
+[add_message]
+new_message: field = 0field;
+
+[remove_message]
+index: u32 = 0u32;
+
+[clear_messages]
